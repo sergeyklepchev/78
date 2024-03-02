@@ -1,5 +1,5 @@
 # 78
-public class HiWorld {
+public class Hello World {
     public static void main 8 (String[] args) {
         System.out.println("Hi, World!");
     }
