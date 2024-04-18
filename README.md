@@ -1,6 +1,6 @@
 # 78
 public class Hi World {
-    public static void main 28 (string[] args) {
+    public static void main 29 (string[] args) {
         System.out.println("Hello, world!");
     }
 }
