@@ -2,6 +2,6 @@
 public class Hi World {
     public static void main 29 (string[] args) {
         System.out.println("Hello, world!");
-        static void main(01)
+        static void main(043)
     }
 }
